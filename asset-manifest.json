@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/meme-generator/static/css/main.3ed1bd24.chunk.css",
-    "main.js": "/meme-generator/static/js/main.9bd27009.chunk.js",
-    "main.js.map": "/meme-generator/static/js/main.9bd27009.chunk.js.map",
+    "main.js": "/meme-generator/static/js/main.ead0d8cd.chunk.js",
+    "main.js.map": "/meme-generator/static/js/main.ead0d8cd.chunk.js.map",
     "runtime-main.js": "/meme-generator/static/js/runtime-main.5ebcf241.js",
     "runtime-main.js.map": "/meme-generator/static/js/runtime-main.5ebcf241.js.map",
     "static/js/2.7e109627.chunk.js": "/meme-generator/static/js/2.7e109627.chunk.js",
@@ -11,12 +11,13 @@
     "static/js/3.e620c508.chunk.js.map": "/meme-generator/static/js/3.e620c508.chunk.js.map",
     "index.html": "/meme-generator/index.html",
     "static/css/main.3ed1bd24.chunk.css.map": "/meme-generator/static/css/main.3ed1bd24.chunk.css.map",
-    "static/js/2.7e109627.chunk.js.LICENSE.txt": "/meme-generator/static/js/2.7e109627.chunk.js.LICENSE.txt"
+    "static/js/2.7e109627.chunk.js.LICENSE.txt": "/meme-generator/static/js/2.7e109627.chunk.js.LICENSE.txt",
+    "static/media/memes.554ec16b.png": "/meme-generator/static/media/memes.554ec16b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5ebcf241.js",
     "static/js/2.7e109627.chunk.js",
     "static/css/main.3ed1bd24.chunk.css",
-    "static/js/main.9bd27009.chunk.js"
+    "static/js/main.ead0d8cd.chunk.js"
   ]
 }
