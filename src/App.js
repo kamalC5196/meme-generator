@@ -5,6 +5,7 @@ import './App.css';
 import './css/style.css';
 import MemeItem from './components/MemeItems'
 import MyMeme from './components/MyMeme'
+import Logo from './img/memes.png'
 
 function App(props) {
   let [ limit,setLimit ] = useState(10);
@@ -13,7 +14,8 @@ function App(props) {
   let [ flag,setFlag ] = useState(1);
   return (
     <div className="App">
-     <h1>MEME GENERATOR</h1>
+      <img src={Logo}></img>
+      <br />
      <br />
      {
       (flag==1) && <>
@@ -26,7 +28,7 @@ function App(props) {
         { ' ' }
       </Form><br />
         <div className="meme-show col-sm-12">
-        <h1>Available Memes</h1>
+        <h1>Available Meme Templates</h1>
       {
         props.memes.memes && props.memes.memes.slice(0,limit).map((meme,i)=>(
                 <>
